@@ -1,0 +1,22 @@
+{
+  "name": "tsbasics",
+  "version": "1.0.0",
+  "description": "For learning basics of typescript ",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2",
+    "webpack": "^3.5.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server" : "http-server -c-1",
+    "watch": "webpack --watch"
+  },
+  "keywords": [
+    "ts",
+    "shahrukh"
+  ],
+  "author": "Mohammad Shahrukh",
+  "license": "MIT"
+}
