@@ -1,3 +1,3 @@
 # Type Script Basics
 
-Learning typeScript for lerning Angular 
+Learning typeScript for learning Angular 
